@@ -28,7 +28,7 @@ The **Image Search App** is a simple web application that allows users to search
 ## 🔧 Installation & Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Mukilkumar-SEC/Image-search-app.git
+   git clone https://github.com/VinithaDhanajeyan/Image-search-app
 2. **Navigate to the project folder:**
     ```bash
    cd image-search-app
