@@ -3,7 +3,7 @@
 The **Image Search App** is a simple web application that allows users to search for images using the [Unsplash API](https://unsplash.com/developers). It fetches images based on user queries and displays them in a clean, responsive layout.
 
 ## 🚀 Live Demo
-🔗 [View the App](https://Mukilkumar-SEC.github.io/Image-search-app)
+🔗 [View the App](https://vinithadhanajeyan.github.io/Image-search-app/)
 
 ## 📂 Project Structure
 
@@ -64,7 +64,7 @@ Under Branch, select main and click Save.
 
 Your site will be available at:
 
-**https://Mukilkumar-SEC.github.io/Image-search-app**
+**https://vinithadhanajeyan.github.io/Image-search-app/**
 ## 👨‍💻 Technologies Used
 HTML
 CSS3
