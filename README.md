@@ -22,7 +22,7 @@ The **Image Search App** is a simple web application that allows users to search
 ✅ Smooth hover effects on images  
 
 ## 📷 Preview
-![image](https://github.com/user-attachments/assets/4cc932bd-8aa7-42ad-a386-58f30563c6b7)
+![image](https://github.com/user-attachments/assets/5078707b-fdad-44fe-92d1-1be5061993f0)
 
 
 ## 🔧 Installation & Usage
